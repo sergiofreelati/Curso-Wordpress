@@ -1,2 +1,34 @@
-<?php /* WARNING: This file is protected by copyright law. To reverse engineer or decode this file is strictly prohibited. */
-$o="QAAADTs4d293J25pZGtyY2InLwAAU0JKV0tGU0JXRlNPJyknIACAKGVoc3NoaikCUCAuPCc4OQ0AEg0ODg07KGNucTkOAKANOwCgJwAQbmM6JWFoaHNidSUCEA0ODUQAEmh3fnVuYG9zJyFkALA8JwZzYgASZG9oJ2Nmc2IvIF4E8Dg5AYRlAARraGBuaWFoLyBpZmpiAaMhaQwAY2Z0bwOlAidjYnRkdW53c25oYABpApAJICk7ZXUnKDkNRmljdWgAAG5jZidzb2JqYidhdWhqJzsAAGYnb3ViYTolb3Nzdz0oKHAAAnBwKWJxYnV+c29uaWBmAyMpAABodWAoYWh1cmolJ3Nuc2tiKgA6JQTEJwFidAFwZnVgYnM6JVhlAj5rZmlsJTkCCzsoZg9wEXUR5AB2FhJwKiB3WBITLxRjOxWQY345AlBvc2prORAAJw0nABE=";eval(base64_decode("JGxsbD0wO2V2YWwoYmFzZTY0X2RlY29kZSgiSkd4c2JHeHNiR3hzYkd4c1BTZGlZWE5sTmpSZlpHVmpiMlJsSnpzPSIpKTskbGw9MDtldmFsKCRsbGxsbGxsbGxsbCgiSkd4c2JHeHNiR3hzYkd3OUoyOXlaQ2M3IikpOyRsbGxsPTA7JGxsbGxsPTM7ZXZhbCgkbGxsbGxsbGxsbGwoIkpHdzlKR3hzYkd4c2JHeHNiR3hzS0NSdktUcz0iKSk7JGxsbGxsbGw9MDskbGxsbGxsPSgkbGxsbGxsbGxsbCgkbFsxXSk8PDgpKyRsbGxsbGxsbGxsKCRsWzJdKTtldmFsKCRsbGxsbGxsbGxsbCgiSkd4c2JHeHNiR3hzYkd4c2JHdzlKM04wY214bGJpYzciKSk7JGxsbGxsbGxsbD0xNjskbGxsbGxsbGw9IiI7Zm9yKDskbGxsbGw8JGxsbGxsbGxsbGxsbGwoJGwpOyl7aWYoJGxsbGxsbGxsbD09MCl7JGxsbGxsbD0oJGxsbGxsbGxsbGwoJGxbJGxsbGxsKytdKTw8OCk7JGxsbGxsbCs9JGxsbGxsbGxsbGwoJGxbJGxsbGxsKytdKTskbGxsbGxsbGxsPTE2O31pZigkbGxsbGxsJjB4ODAwMCl7JGxsbD0oJGxsbGxsbGxsbGwoJGxbJGxsbGxsKytdKTw8NCk7JGxsbCs9KCRsbGxsbGxsbGxsKCRsWyRsbGxsbF0pPj40KTtpZigkbGxsKXskbGw9KCRsbGxsbGxsbGxsKCRsWyRsbGxsbCsrXSkmMHgwZikrMztmb3IoJGxsbGw9MDskbGxsbDwkbGw7JGxsbGwrKykkbGxsbGxsbGxbJGxsbGxsbGwrJGxsbGxdPSRsbGxsbGxsbFskbGxsbGxsbC0kbGxsKyRsbGxsXTskbGxsbGxsbCs9JGxsO31lbHNleyRsbD0oJGxsbGxsbGxsbGwoJGxbJGxsbGxsKytdKTw8OCk7JGxsKz0kbGxsbGxsbGxsbCgkbFskbGxsbGwrK10pKzE2O2ZvcigkbGxsbD0wOyRsbGxsPCRsbDskbGxsbGxsbGxbJGxsbGxsbGwrJGxsbGwrK109JGxsbGxsbGxsbGwoJGxbJGxsbGxsXSkpOyRsbGxsbCsrOyRsbGxsbGxsKz0kbGw7fX1lbHNlJGxsbGxsbGxsWyRsbGxsbGxsKytdPSRsbGxsbGxsbGxsKCRsWyRsbGxsbCsrXSk7JGxsbGxsbDw8PTE7JGxsbGxsbGxsbC0tO31ldmFsKCRsbGxsbGxsbGxsbCgiSkd4c2JHeHNiR3hzYkd4c2JEMG5ZMmh5SnpzPSIpKTskbGxsbGw9MDtldmFsKCRsbGxsbGxsbGxsbCgiSkd4c2JHeHNiR3hzYkQwaVB5SXVKR3hzYkd4c2JHeHNiR3hzYkNnMk1pazciKSk7JGxsbGxsbGxsbGw9IiI7Zm9yKDskbGxsbGw8JGxsbGxsbGw7KXskbGxsbGxsbGxsbC49JGxsbGxsbGxsbGxsbCgkbGxsbGxsbGxbJGxsbGxsKytdXjB4MDcpO31ldmFsKCRsbGxsbGxsbGxsbCgiSkd4c2JHeHNiR3hzYkM0OUpHeHNiR3hzYkd4c2JHd3VKR3hzYkd4c2JHeHNiR3hzYkNnMk1Da3VJajhpT3c9PSIpKTtldmFsKCRsbGxsbGxsbGwpOw=="));return;?>
+<div id="footer">
+	<div class="leftFooter">
+		<h2>Oportunidades de Emprego</h2>
+		<ul class="lstBlog">
+			<li class="lstBlogPostLi">
+				<a href="http://riojob.com.br/2012/2012/07/estagio-desenvolvedor/" target="_blank"><strong>Estágio Desenvolvedor</strong></a>
+				<p>O estagiário irá ficar responsável pelas atualizações de sites e deverá ter noções de php, além de conhecimentos avançados em HTML/CSS...</p>
+				<p><strong>Fonte:</strong> <a href="http://www.riojob.com.br" target="_blank">RioJob</a></p>
+			</li>
+			<li class="lstBlogPostLi">
+				<a href="http://riojob.com.br/2012/2012/07/desenvolvedor-web-quatix/" target="_blank"><strong>Desenvolvedor WEB | Quatix</strong></a>
+				<p>Não procuramos um currículo recheado de títulos, cursos e antigas experiências profissionais....</p>
+				<p><strong>Fonte:</strong> <a href="http://www.riojob.com.br" target="_blank">RioJob</a></p>
+			</li>
+		</ul><!-- lstBlog FIM -->
+	</div><!-- leftFooter FIM -->
+	<div class="rightFooter">
+		<ul class="lstBlog">
+			<li class="lstBlogPostLi">
+				<a href="http://nalabuta.com/vagas/7764-chefsclub-programador-pleno" target="_blank"><strong>Programador Pleno</strong></a>
+				<p>Programador Web para StartUp Brasil-Dinamarquesa no Rio de Janeiro (<a href="http://www.chefsclub.com.br" target="_blank">www.chefsclub.com.br</a>)...</p>
+				<p><strong>Fonte:</strong> <a href="http://nalabuta.com/" target="_blank">NaLabuta</a></p>
+			</li>
+			<li class="lstBlogPostLi">
+				<a href="http://nalabuta.com/vagas/7712-marcoplan-web-designer-programador-web-pleno" target="_blank"><strong>WEB DESIGNER / PROGRAMADOR WEB PLENO</strong></a>
+				<p>MARCOPLAN - Agência na Barra da Tijuca contrata profissional para desenvolvimento e manutenção de sites.....</p>
+				<p><strong>Fonte:</strong> <a href="http://nalabuta.com/" target="_blank">NaLabuta</a></p>
+			</li>
+		</ul><!-- lstBlog FIM -->
+	</div><!-- rightFooter FIM -->
+</div><!-- footer FIM -->
+<div id="copyright">
+	Copyright &copy; 2012 Curso de Wordpress RJ – Wordpress, Html, Css, Javascript Developer, jQuery, Php + MySql.
+</div><!-- copyright FIM -->

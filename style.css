@@ -60,12 +60,9 @@ blockquote {
 	}
 #casing {
 	padding:0px 0px 0px 0px;
-	background:#E9EEF2;
 	background-repeat:no-repeat;
-	}		
-	
-	
-	
+}		
+
 #topbar {
 	height: 35px;
 	margin-bottom: 0px;
@@ -355,13 +352,13 @@ span.topfeed {
 	
 #catmenu  li:hover ul, #catmenu li.sfhover ul {
 	left: auto;
-	}	
+}	
 		
 /* Main Content*/	
 
 #content {
 	float:left;
-	width: 650px;
+	width: 100%;
 	height:100%;
 	padding:5px 0px 0px 0px;
 	}
@@ -380,7 +377,7 @@ span.topfeed {
 	}
 	
 .single {
-	width:625px;
+	width:955px;
 	margin: 0px 5px 15px 20px;
 	height:100%;
 	color:#535A5F;
@@ -913,43 +910,6 @@ span.topfeed {
 #wp-calendar td, table#wp-calendar th{
 	padding: 2px 0;
 }		
-	
-	
-/* --- FOOTER --- */
-
-#footer {
-	height:40px;
-	padding:30px 0 0 0px;
-	color:#666;
-	font-size:12px;
-	font-weight:normal;
-	text-align:center;
-	letter-spacing:1px;
-	font-family: Tahoma,georgia,Century gothic,  Arial, sans-serif;
-	float:left;
-	width:1000px;
-	background:#F4F4F4 url(images/foot.jpg) top no-repeat;
-
-	}
-
-#footer a:link , #footer a:visited{
-	color:#666;
-	}
-
-#footer a:hover {
-	color:#333;
-	}
-.fleft{
-	float:left;
-	padding: 0 0 0 30px;
-
-}
-
-.fright{
-	float:right;
-	padding: 0 30px 0 0;
-}
-
 
 /* The Navigation */
 
@@ -1280,6 +1240,48 @@ ol.commentlist li.pingback div.vcard {
 }
 
 
+/* --- FOOTER --- */
 
+#footer {
+	color:#666;
+	font-size:12px;
+	font-weight:normal;
+	letter-spacing:1px;
+	font-family: Tahoma,georgia,Century gothic,  Arial, sans-serif;
+	float:left;
+	width:1000px;
+	background-color: #E9EEF2;
+}
 
+#footer a:link , #footer a:visited{
+	color:#666;
+}
+#footer a:hover {
+	color:#333;
+}
+.lstBlog{
+	padding: 0;
+}
+.leftFooter,
+.rightFooter{
+	float:left;
+	padding: 0 0 0 30px;
+	width: 400px;
+}
+.rightFooter{
+	float:right;
+	margin: 40px 80px 0 0;
+}
+.lstBlogPostLi,
+.lstFooterLi{
+	list-style-type: none;
+}
+#copyright{
+	clear: both;
+	width: 1000px;
+	text-align: center;
+	margin: 10px auto;
+	padding: 10px 0;
+	background-color: #ddd;
 
+}

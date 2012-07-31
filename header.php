@@ -16,6 +16,7 @@
 		<script type="text/javascript" src="<?php bloginfo('template_directory'); ?>/js/jquery.lavalamp.js"></script>
 		<link rel="stylesheet" type="text/css" href="<?php bloginfo('template_directory'); ?>/glide.css" media="screen" />	
 		<link rel="stylesheet" type="text/css" href="<?php bloginfo('template_directory'); ?>/banner.css" media="screen" />
+		
 		<!--[if lt IE 8]>
 		<script src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE8.js" type="text/javascript"></script>
 		<![endif]-->

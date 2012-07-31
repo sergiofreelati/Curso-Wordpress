@@ -5,7 +5,6 @@
 	<div class="single" id="post-<?php the_ID(); ?>">
 		<div class="title">
 			<h2><a href="<?php the_permalink() ?>" rel="bookmark" title="Permanent Link to <?php the_title(); ?>"><?php the_title(); ?></a></h2>
-			<div class="date"><span class="author">Posted by <?php the_author(); ?></span> <span class="clock">  <?php the_time(' F - j - Y - l '); ?></span>  </div>	
 		</div>
 		<div class="cover">
 			<div class="entry">
@@ -13,15 +12,9 @@
 				<div class="clear"></div>
 			</div>
 		</div><!-- cover FIM -->
-		<div class="singleinfo">
-			<div class="category"><?php the_category(', '); ?> </div>	
-		</div>
 	</div><!-- single FIM -->
 	<div class="clear"> </div>
-	<?php comments_template(); ?>
 	<?php endwhile; else: ?>
-	<h1 class="title">Not Found</h1>
-	<p>I'm Sorry,  you are looking for something that is not here. Try a different search.</p>
 	<?php endif; ?>
 </div><!-- content FIM -->
 <?php get_footer(); ?>
